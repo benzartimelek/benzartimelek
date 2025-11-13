@@ -63,7 +63,7 @@
 <br clear="both">
 
 🐍 Contribution Flow<br>
-![snake gif](https://github.com/melekbenzarti/melekbenzarti/blob/output/snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/benzartimelek/benzartimelek/main/snake.svg)
 <br><br>---<br><br>
 ###
 
