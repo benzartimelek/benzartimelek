@@ -62,6 +62,8 @@
 
 <br clear="both">
 
-🐍 Contribution Flow<br>![Snake Animation](https://github.com/melekbenzarti/melekbenzarti/blob/output/snake.svg)<br><br>---<br><br>
+🐍 Contribution Flow<br>
+![snake gif](https://github.com/melekbenzarti/melekbenzarti/blob/output/snake.svg)
+<br><br>---<br><br>
 ###
 
