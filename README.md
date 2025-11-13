@@ -64,6 +64,5 @@
 
 🐍 Contribution Flow<br>
 ![Contribution Snake](https://raw.githubusercontent.com/benzartimelek/benzartimelek/main/snake.svg)
-<br><br>---<br><br>
 ###
 
